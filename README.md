@@ -4,6 +4,9 @@ Projeto para o teste ao dpt de desenvolvimento
 
 
 Segue abaixo os scripts para criação das tabelas no banco de dados:
+
+
+
 CREATE TABLE nascimento (id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
                          nomeR VARCHAR(60),
                          dataNRda date NOT NULL,
