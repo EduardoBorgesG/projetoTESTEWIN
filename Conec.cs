@@ -11,7 +11,7 @@ namespace projetoTESTEWIN
     internal class Conec
     {
         //conexão banco de dados local
-        string conexao = ("SERVER=localhost; DATABASE=testescript; UID=root; PWD=senha; PORT=;");
+        string conexao = ("SERVER=localhost; DATABASE=testeDev; UID=root; PWD=senha; PORT=;");
         public MySqlConnection con = null;
 
         public void AbrirCon()
