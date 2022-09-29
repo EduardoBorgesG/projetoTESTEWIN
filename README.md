@@ -1,7 +1,7 @@
 # projetoTESTEWIN
 Projeto para o teste ao dpt de desenvolvimento
 
-
+Necessário criar uma database com o nome testeDev em ambiente MySql, efetuei a conexão do banco de dados com o programa XAMPP.
 
 Segue abaixo os scripts para criação das tabelas no banco de dados:
 
